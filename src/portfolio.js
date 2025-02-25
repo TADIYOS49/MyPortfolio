@@ -174,7 +174,7 @@ const educationInfo = {
     },
     {
       schoolName: "A2SV",
-      logo: require("./assets/images/a2sv.jpg"),
+      logo: require("./assets/images/a2sv.png"),
       subHeader: "DataStructure and Algorithm bootcamp",
       duration: "Feburary 2022 - November 2022",
       desc: "Participated in competitive programming and developed different projects.",
@@ -220,7 +220,7 @@ const workExperiences = {
     {
       role: "Project Lead | Software Engineer II | ML Engineer",
       company: "A2SV",
-      companylogo: require("./assets/images/a2sv.jpg"),
+      companylogo: require("./assets/images/a2sv.png"),
       date: "March 2022 - December 2024",
       desc: "Worked on AfroChat a project that focuses on developing different Generative AI technologies for the African market.",
       descBullets: [
@@ -294,7 +294,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/a2svhub.jpg"),
+      image: require("./assets/images/a2svhub.png"),
       projectName: "A2SV Hub",
       projectDesc: "A platform for students to succeed in their studies of Data Structures and Algorithms with AI.",
       footerLink: [

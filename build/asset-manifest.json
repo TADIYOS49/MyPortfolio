@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.22af5f2d.css",
-    "main.js": "/MyPortfolio/static/js/main.dc8a06da.js",
+    "main.js": "/MyPortfolio/static/js/main.cbaa928c.js",
     "static/css/487.bb36206c.chunk.css": "/MyPortfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.2a9bdcdb.chunk.js": "/MyPortfolio/static/js/487.2a9bdcdb.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/MyPortfolio/static/css/990.c6a7ee28.chunk.css",
@@ -10,10 +10,10 @@
     "static/media/Agustina.woff": "/MyPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/ACPC.png": "/MyPortfolio/static/media/ACPC.c65d979b4e073a5a3dd9.png",
     "static/media/manOnTable.svg": "/MyPortfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/a2sv.png": "/MyPortfolio/static/media/a2sv.d166553a8fd389f677a0.png",
     "static/media/contactMailDark.svg": "/MyPortfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/MyPortfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/afrochat.png": "/MyPortfolio/static/media/afrochat.303ecbb2f6551f0edbaa.png",
-    "static/media/a2sv.jpg": "/MyPortfolio/static/media/a2sv.0ccab5018a66d129ad45.jpg",
     "static/media/akil.png": "/MyPortfolio/static/media/akil.e464a594327a04f4be22.png",
     "static/media/adot.png": "/MyPortfolio/static/media/adot.209c52d02c955b8246ba.png",
     "static/media/aastu-logo.jpg": "/MyPortfolio/static/media/aastu-logo.c8d238399bdd95a022ee.jpg",
@@ -21,7 +21,7 @@
     "index.html": "/MyPortfolio/index.html",
     "static/media/talksCardBack.svg": "/MyPortfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.22af5f2d.css.map": "/MyPortfolio/static/css/main.22af5f2d.css.map",
-    "main.dc8a06da.js.map": "/MyPortfolio/static/js/main.dc8a06da.js.map",
+    "main.cbaa928c.js.map": "/MyPortfolio/static/js/main.cbaa928c.js.map",
     "487.bb36206c.chunk.css.map": "/MyPortfolio/static/css/487.bb36206c.chunk.css.map",
     "487.2a9bdcdb.chunk.js.map": "/MyPortfolio/static/js/487.2a9bdcdb.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/MyPortfolio/static/css/990.c6a7ee28.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.22af5f2d.css",
-    "static/js/main.dc8a06da.js"
+    "static/js/main.cbaa928c.js"
   ]
 }
