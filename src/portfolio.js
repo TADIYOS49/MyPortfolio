@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Engineer(Backend heavy) | ML Engineer with passion for real-world problems. I have experience developing different systems and applications using various technologies. I am excited to work with you if you have the same desire to make impactful projects." 
   ),
   resumeLink:
-    "https://drive.google.com/file/d/18Thbf5lb-4LZjX8b1CQII3_HunCoMQPS/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1UeUThBicrctg12VmX2Sbsqdke1GO7mT6/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
